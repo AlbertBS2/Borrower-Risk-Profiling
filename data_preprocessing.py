@@ -19,6 +19,8 @@ def preprocess_data(loan_data, unemployment_rate_data):
     # Load loan data
     loan_data = pd.read_csv(loan_data, low_memory=False)
 
+    print("Loan data loaded successfully.")
+
     # Drop unnecessary id columns
     loan_data = loan_data.drop(columns=['id', 'member_id'])
 
@@ -42,6 +44,8 @@ def preprocess_data(loan_data, unemployment_rate_data):
     for path in paths[1:]:
         df = pd.read_csv(path)
         y_unemployment_df = y_unemployment_df.merge(df, on="observation_date", how="outer")
+    
+    print("Unemployment rate data loaded and merged successfully.")
 
     # Add year column from observation date
     y_unemployment_df['year'] = y_unemployment_df['observation_date'].astype('datetime64[ns]').dt.year
@@ -70,12 +74,14 @@ def preprocess_data(loan_data, unemployment_rate_data):
         how="left"
     ).drop(columns=["year", "state"])
 
+    print("Loan and unemployment data merged successfully.")
+
     # Drop unnecessary columns
     drop_cols = ['emp_title', 'issue_d', 'loan_status', 'url', 'title', 'zip_code', 'policy_code', 'earliest_cr_line', 'initial_list_status', 'last_pymnt_d', 'last_credit_pull_d']
     data = data.drop(columns=drop_cols)
 
     # Modify term column to keep only numeric part
-    data['term'] = data['term'].apply(lambda x: x[:3])
+    data['term'] = data['term'].apply(lambda x: x[:3]).astype(int)
 
     # Modify grade to numeric values
     grade_order = {'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5, 'F': 6, 'G': 7}
@@ -108,5 +114,13 @@ def preprocess_data(loan_data, unemployment_rate_data):
 
     # Convert debt_settlement_flag to numeric binary values
     data['debt_settlement_flag'] = data['debt_settlement_flag'].map({'N': 0, 'Y': 1}).astype(int)
+
+    # Target encode categorical variables
+    cat_variables = ['home_ownership', 'verification_status', 'purpose', 'addr_state', 'application_type', 'disbursement_method']
+    data[cat_variables] = data[cat_variables].astype('category')
+    for col in cat_variables:
+        data[col] = data[col].cat.codes
+
+    print("Data preprocessing completed successfully.")
 
     return data
