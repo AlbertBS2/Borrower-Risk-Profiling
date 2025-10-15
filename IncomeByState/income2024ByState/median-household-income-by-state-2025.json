@@ -1,0 +1,418 @@
+[
+  {
+    "stateFlagCode": null,
+    "state": "District of Columbia",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 75814,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 147683,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 183198,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 215972
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Maryland",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 52519,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 109285,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 125724,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 150702
+  },
+  {
+    "stateFlagCode": null,
+    "state": "California",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 50251,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 101959,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 113943,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 128813
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Colorado",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 49447,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 104126,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 121291,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 140677
+  },
+  {
+    "stateFlagCode": null,
+    "state": "New Jersey",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 48523,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 104651,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 130685,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 156487
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Washington",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 48386,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 102278,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 122578,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 141412
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Alaska",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 46819,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 99684,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 110198,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 123648
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Virginia",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 46767,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 97690,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 116222,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 136949
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Massachusetts",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 45920,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 110054,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 136213,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 165180
+  },
+  {
+    "stateFlagCode": null,
+    "state": "New Hampshire",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 45746,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 101660,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 132981,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 148366
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Utah",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 44905,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 91564,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 107250,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 119711
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Hawaii",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 44402,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 96717,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 116925,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 136006
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Connecticut",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 44224,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 101926,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 126016,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 155623
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Minnesota",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 43172,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 95091,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 121094,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 138690
+  },
+  {
+    "stateFlagCode": null,
+    "state": "New York",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 42397,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 92003,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 110523,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 130304
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Rhode Island",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 42225,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 95211,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 113022,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 136111
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Delaware",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 42168,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 91967,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 108094,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 114470
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Nevada",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 42034,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 83781,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 99853,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 106361
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Illinois",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 41888,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 89614,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 106922,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 127556
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Texas",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 41661,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 82953,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 94007,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 108349
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Arizona",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 41272,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 84639,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 104058,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 109740
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Georgia",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 40028,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 80832,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 97265,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 110713
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Wisconsin",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 39966,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 85204,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 107009,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 121491
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Oregon",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 39791,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 88006,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 108524,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 120322
+  },
+  {
+    "stateFlagCode": null,
+    "state": "North Dakota",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 39690,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 90331,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 104323,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 129866
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Vermont",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 39613,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 92927,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 115411,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 130141
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Florida",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 39438,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 80838,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 93493,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 105796
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Nebraska",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 38276,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 86488,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 100273,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 116960
+  },
+  {
+    "stateFlagCode": null,
+    "state": "North Carolina",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 38073,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 80086,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 94037,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 108511
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Pennsylvania",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 37725,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 83380,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 102837,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 121529
+  },
+  {
+    "stateFlagCode": null,
+    "state": "South Dakota",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 37260,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 89377,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 97793,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 116586
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Iowa",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 37172,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 82299,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 98013,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 111253
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Michigan",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36687,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 77586,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 95706,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 114734
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Indiana",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36674,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 76837,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 94883,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 108669
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Ohio",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36615,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 79056,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 96406,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 112665
+  },
+  {
+    "stateFlagCode": null,
+    "state": "South Carolina",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36564,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 77269,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 89265,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 99074
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Kansas",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36534,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 81039,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 91473,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 110751
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Missouri",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36283,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 78158,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 96521,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 104999
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Tennessee",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36264,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 77242,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 91602,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 105519
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Maine",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 36001,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 83183,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 102041,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 114289
+  },
+  {
+    "stateFlagCode": null,
+    "state": "New Mexico",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 35969,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 72741,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 77542,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 89897
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Idaho",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 35951,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 79067,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 95484,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 109375
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Montana",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 35369,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 79064,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 95657,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 112129
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Oklahoma",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 32704,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 71354,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 84133,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 93300
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Kentucky",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 31481,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 68305,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 83346,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 101763
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Alabama",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 31232,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 71147,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 81625,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 98498
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Arkansas",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 30682,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 65773,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 79318,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 94893
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Louisiana",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 29921,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 68837,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 77447,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 96211
+  },
+  {
+    "stateFlagCode": null,
+    "state": "West Virginia",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 29140,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 64510,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 77797,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 91956
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Mississippi",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 27205,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 62406,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 76637,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 86519
+  },
+  {
+    "stateFlagCode": null,
+    "state": "Wyoming",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": null,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 80231,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 94718,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 107459
+  },
+  {
+    "stateFlagCode": null,
+    "state": "United States",
+    "MedianHouseholdIncomeInOnePersonHousehold_2023": 41398.543882927996,
+    "MedianHouseholdIncomeInTwoPersonHousehold_2023": 87614.85382752022,
+    "MedianHouseholdIncomeInThreePersonHousehold_2023": 103705.07030469393,
+    "MedianHouseholdIncomeInFourPersonHousehold_2023": 119940.24266905074
+  }
+]
