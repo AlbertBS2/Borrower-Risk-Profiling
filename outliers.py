@@ -7,7 +7,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 loan_data = "data/accepted_2007_to_2018Q4.csv.gz"
 unemployment_rate_data = ["data/unemployment_rate_0.csv", "data/unemployment_rate_1.csv", "data/unemployment_rate_2.csv", "data/unemployment_rate_3.csv", "data/unemployment_rate_4.csv"]
 
@@ -26,10 +25,6 @@ imputer = SimpleImputer(strategy='median')
 X_imp = imputer.fit_transform(X_clipped)
 X_scaled = StandardScaler().fit_transform(X_imp)
 
-
-
-
-
 # Number of components PCA
 n = 20
 pca = PCA(n_components=n)
@@ -42,8 +37,6 @@ loading_strength = np.abs(pca.components_[0])  # first PC
 top_features = np.argsort(loading_strength)[::-1][:10]  # top 10 features
 print("Top 10 features contributing to the first principal component:")
 print(data.columns[top_features])
-
-
 
 #K-means
 from sklearn.cluster import KMeans
